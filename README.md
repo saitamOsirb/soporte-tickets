@@ -1,2 +1,2 @@
-# soporte-tickets
-discord ia bots support
+# Bot de Soporte – Integración Discord ⇄ GitHub
+...(Contenido abreviado por brevedad en este ejemplo. En la respuesta final se incluirá el texto completo)...
